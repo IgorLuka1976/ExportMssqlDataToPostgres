@@ -1,2 +1,2 @@
 # MssqlTransactToPostgres
-Receive data from MSSQL to Postgres
+Export data from MSSQL to Postgres
